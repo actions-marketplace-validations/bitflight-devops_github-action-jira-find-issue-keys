@@ -116,7 +116,7 @@
     "@babel/types": "^7.20.0",
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
-    "@commitlint/prompt": "^17.1.2",
+    "@commitlint/prompt": "^17.3.0",
     "@prettier/plugin-ruby": "^3.2.2",
     "@prettier/plugin-xml": "^2.2.0",
     "@trunkio/launcher": "^1.2.2",
